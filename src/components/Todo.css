@@ -1,0 +1,10 @@
+.clear-btn {
+    margin-top:2%;
+}
+
+.item {
+    color:black;
+}
+.item.completed {
+    text-decoration: line-through;
+}
